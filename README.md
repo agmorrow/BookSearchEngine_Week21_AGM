@@ -14,7 +14,7 @@ My task was to take starter code with a fully functioning Google Books API searc
 
 ### Link to deployed application
 
-https://pwa-texteditor-agm.herokuapp.com/
+https://mern-googlebooks-agm.herokuapp.com/
 
 
 ## Install
