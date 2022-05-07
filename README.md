@@ -7,6 +7,7 @@ My task was to take starter code with a fully functioning Google Books API searc
 
 ## Table of Contents
 - [Install](#install)
+- [Screenshot](#screenshot)
 - [Credits](#credits)
 - [License](#license)
 
@@ -26,6 +27,11 @@ Run npm i to install dependencies.
 ```bash
 npm run develop 
 ```
+
+## Screenshot
+
+![google](https://user-images.githubusercontent.com/82473623/167233331-2d92781a-b671-4463-891d-7c48ed240ee3.jpg)
+
 
 ## Credits
 DU Bootcamp Lectures - Week 21
